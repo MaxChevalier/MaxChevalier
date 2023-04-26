@@ -19,13 +19,3 @@ jutilise principalement les langages suivant :
 ![MaxChevalier's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxChevalier&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxChevalier&layout=compact&theme=react)
 
-<!--END_SECTION:waka-->
-
-<div align="center">
-  <h2 align="center">🐍 ◄ 𝓢𝓷𝓪𝓴𝓮 ► 🐍</h2>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg" />
-    <img alt="github-snake" src="github-snake.svg" />
-  </picture>
-</div>

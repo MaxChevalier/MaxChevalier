@@ -1,20 +1,25 @@
-## Bonjour à tous et bienvenu 👋
+![](https://img.shields.io/badge/C%23-magenta?logo=Csharp&logoColor=white&label=Code)
+![](https://img.shields.io/badge/Python-magenta?logo=python&logoColor=white&label=Code)
+![](https://img.shields.io/badge/Java-magenta?logo=java&logoColor=white&label=Code)
+![](https://img.shields.io/badge/JavaScript-magenta?logo=javascript&logoColor=white&label=Code)
+![](https://img.shields.io/badge/TypeScript-magenta?logo=TypeScript&logoColor=white&label=Code)
+![](https://img.shields.io/badge/Dart-magenta?logo=dart&logoColor=white&label=Code)
+![](https://img.shields.io/badge/PHP-magenta?logo=PHP&logoColor=white&label=Code)
+![](https://img.shields.io/badge/Golang-magenta?logo=Go&logoColor=white&label=Code)
 
-je suis Actuellement en 2ème années de Bachelor Informatique à Nantes Ynov Campus
-<br>
-jutilise principalement les langages suivant :
-<br>
-<img src="img\csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
-<img src="img\python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-<img src="img\java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-<img src="img\typescript-original.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp;
-<img src="img\javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-<img src="img\mysql-original-wordmark.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp;
-<img src="img\sqlite-original.svg" title="sqlite" alt="sqlite" width="40" height="40"/>&nbsp;
-<img src="img\postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
-<img src="img\html5-original.svg" title="html" alt="html" width="40" height="40"/>&nbsp;
-<img src="img\css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
-<img src="img\go-original.svg" title="go" alt="go" width="40" height="40"/>&nbsp;
+![](https://img.shields.io/badge/Django-magenta?logo=Django&logoColor=white&label=Framework)
+![](https://img.shields.io/badge/Flutter-magenta?logo=flutter&logoColor=white&label=Framework)
+![](https://img.shields.io/badge/Angular-magenta?logo=Angular&logoColor=white&label=Framework)
+![](https://img.shields.io/badge/Node.js-magenta?logo=Node.js&logoColor=white&label=Framework)
+
+![](https://img.shields.io/badge/MySQL-magenta?logo=mysql&logoColor=white&label=Data)
+![](https://img.shields.io/badge/sqlite-magenta?logo=sqlite&logoColor=white&label=Data)
+![](https://img.shields.io/badge/mongodb-magenta?logo=mongodb&logoColor=white&label=Data)
+![](https://img.shields.io/badge/mariadb-magenta?logo=mariadb&logoColor=white&label=Data)
+
+![](https://img.shields.io/badge/github-magenta?logo=github&logoColor=white&label=Tools)
+![](https://img.shields.io/badge/VSCode-magenta?logo=visualstudiocode&logoColor=white&label=Tools)
+![](https://img.shields.io/badge/Unity-magenta?logo=Unity&logoColor=white&label=Tools)
 
 ![MaxChevalier's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxChevalier&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxChevalier&layout=compact&theme=react)

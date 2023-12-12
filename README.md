@@ -13,15 +13,15 @@
 ![](https://img.shields.io/badge/Node.js-%23CD00CD?logo=Node.js&logoColor=white&label=Framework)
 
 ![](https://img.shields.io/badge/MySQL-%23CD00CD?logo=mysql&logoColor=white&label=Data)
-![](https://img.shields.io/badge/sqlite-%23CD00CD?logo=sqlite&logoColor=white&label=Data)
-![](https://img.shields.io/badge/mongodb-%23CD00CD?logo=mongodb&logoColor=white&label=Data)
-![](https://img.shields.io/badge/mariadb-%23CD00CD?logo=mariadb&logoColor=white&label=Data)
+![](https://img.shields.io/badge/Sqlite-%23CD00CD?logo=sqlite&logoColor=white&label=Data)
+![](https://img.shields.io/badge/Mongodb-%23CD00CD?logo=mongodb&logoColor=white&label=Data)
+![](https://img.shields.io/badge/Mariadb-%23CD00CD?logo=mariadb&logoColor=white&label=Data)
 
-![](https://img.shields.io/badge/github-%23CD00CD?logo=github&logoColor=white&label=Tools)
+![](https://img.shields.io/badge/Github-%23CD00CD?logo=github&logoColor=white&label=Tools)
 ![](https://img.shields.io/badge/VSCode-%23CD00CD?logo=visualstudiocode&logoColor=white&label=Tools)
 ![](https://img.shields.io/badge/Unity-%23CD00CD?logo=Unity&logoColor=white&label=Tools)
 ![](https://img.shields.io/badge/Jira-%23CD00CD?logo=jira&logoColor=white&label=Tools)
-![](https://img.shields.io/badge/confluence-%23CD00CD?logo=confluence&logoColor=white&label=Tools)
+![](https://img.shields.io/badge/Confluence-%23CD00CD?logo=confluence&logoColor=white&label=Tools)
 
 ![MaxChevalier's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxChevalier&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxChevalier&layout=compact&theme=react)

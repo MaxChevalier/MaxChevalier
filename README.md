@@ -23,6 +23,6 @@
 ![](https://img.shields.io/badge/Jira-%23CD00CD?logo=jira&logoColor=white&label=Tools)
 ![](https://img.shields.io/badge/Confluence-%23CD00CD?logo=confluence&logoColor=white&label=Tools)
 
-![MaxChevalier's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxChevalier&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxChevalier&layout=donut&theme=react&langs_count=10&hide=ShaderLab,C++,CMake)
+![MaxChevalier's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaxChevalier&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxChevalier&layout=donut&theme=react&hide=ShaderLab,C++,CMake)
 
